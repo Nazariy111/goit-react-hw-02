@@ -9,6 +9,7 @@
 
 .optionsSection button:hover {
     border-color: black;
+    background-color: rgb(220, 219, 219);
 }
 
 .optionsSection {
